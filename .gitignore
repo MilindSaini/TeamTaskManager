@@ -1,0 +1,6 @@
+.env
+backend/.m2/
+backend/target/
+frontend/node_modules/
+frontend/dist/
+frontend/*.log
