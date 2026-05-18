@@ -16,6 +16,9 @@ Full-stack, collaborative task management system with Spring Boot 3, React 18, J
 - Deployment
 - Build and test
 
+## Video Demo
+https://github.com/user-attachments/assets/0b9b3c2c-0d65-4088-b2c8-abac84f81174
+
 ## Overview
 
 Team Task Manager helps teams organize projects, track tasks on a Kanban board, and collaborate through comments. The backend exposes a REST API secured by JWT and RBAC. The frontend is a React single page application that consumes the API via Axios and React Query.
